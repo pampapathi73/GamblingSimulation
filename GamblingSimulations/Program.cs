@@ -7,6 +7,9 @@ namespace GamblingSimulations
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to gambing simulation");
+            int stakeHold = 100;
+            const int bet = 1;
+            int days = 30;
             
         }
     }

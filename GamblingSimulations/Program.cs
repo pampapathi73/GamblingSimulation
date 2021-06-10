@@ -7,7 +7,9 @@ namespace GamblingSimulations
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to gambing simulation");
-            
+
+
         }
     }
+
 }
